@@ -1,0 +1,9 @@
+{
+  "HEAD": {
+    "type": "branch",
+    "name": "main"
+  },
+  "branches": {
+    "main": "c0"
+  }
+}
