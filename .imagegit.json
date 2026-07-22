@@ -1,5 +1,5 @@
 {
-  "pixelgit_script": "/Users/will/Desktop/imageGit/.venv/lib/python3.9/site-packages/pixelgit.py",
+  "pixelgit_script": "/Users/will/Desktop/imageGit/imagegit-tool/pixelgit.py",
   "pixel_repo": ".pixelrepo",
   "working_image": "sign.png",
   "github_repo": "sign-git",
